@@ -12,7 +12,7 @@ pyroauth --help
 pyroauth \
     --id <API_ID> \
     --hash <API_HASH> \
-    --output ./client.session
+    --output <ABSOLUTE_PATH_TO_YOUR_SESSION>
 ```
 
 ## Contributing
