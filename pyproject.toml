@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "pyroauth"
 version = "0.1.0"
-description = ""
-authors = ["roman mac <barabum@duck.com>"]
+description = "A simple CLI that can create a client for pyrogram"
+authors = ["sushka <barabum@duck.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
