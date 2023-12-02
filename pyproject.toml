@@ -8,7 +8,6 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 pyrogram = "^2.0.106"
-click = "^8.1.7"
 
 [tool.poetry.scripts]
 pyroauth = "pyroauth.__main__:main"
