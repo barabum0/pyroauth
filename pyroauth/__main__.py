@@ -5,7 +5,8 @@ from pyrogram import Client
 
 async def auth():
     client = Client("client")
-    await client.authorize()
+    async with client:
+        await client.authorize()
 
 
 def main():
